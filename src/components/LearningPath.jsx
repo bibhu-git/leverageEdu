@@ -66,7 +66,7 @@ export default function LearningPath() {
                         <div className="hidden lg:block flex-1 h-[1px] bg-[#163b44] mt-6"></div>
                     </div>
 
-                    <p className="text-lg text-[#163b44] max-w-md">
+                    <p className="text-3xl text-[#163b44] max-w-md">
                         Find the perfect programs to fast-track your career.
                     </p>
                 </div>

@@ -72,7 +72,7 @@ export default function SuccessStories() {
                         <div className="hidden lg:block flex-1 h-[1px] bg-[#163b44]/60 mt-6"></div>
                     </div>
 
-                    <p className="text-lg text-[#163b44] max-w-xs">
+                    <p className="text-4xl text-[#163b44] max-w-xs">
                         Explore Success Stories
                     </p>
                 </div>

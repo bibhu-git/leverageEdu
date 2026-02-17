@@ -70,7 +70,7 @@ export default function OurPlatform() {
                         <div className="hidden lg:block flex-1 h-[1px] bg-[#163b44] mt-6"></div>
                     </div>
 
-                    <p className="text-lg text-[#163b44] max-w-sm">
+                    <p className="text-3xl text-[#163b44] max-w-sm">
                         One stop for everything you need.
                     </p>
                 </div>
