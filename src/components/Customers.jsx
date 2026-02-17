@@ -36,13 +36,13 @@ export default function Customers() {
 
     return (
         <section className="py-16 bg-white">
-            <h2 className="text-center text-2xl md:text-3xl font-medium mb-10">
+            <h2 className="text-center text-2xl md:text-3xl mb-10">
                 Our customers are grabbing jobs from the future!
             </h2>
 
             <div
                 ref={scrollRef}
-                className="flex gap-16 overflow-x-hidden whitespace-nowrap px-10"
+                className="flex gap-20 overflow-x-hidden justify-center whitespace-nowrap px-10"
             >
                 {logos.map((logo, index) => (
                     <div
